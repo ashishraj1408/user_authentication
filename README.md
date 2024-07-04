@@ -10,6 +10,7 @@
 </p>
 
 ## Installation Instruction
+- all code/files are there in master branch
 - run ```git clone https://github.com/ashishraj1408/auth_user.git laravel-login```
 - Create a MySQL database for the project ```laravel_login```
 - From the projects root run ```cp .env.example .env```
